@@ -29,8 +29,6 @@ Masukkan temperatur (Celsius):
 30.00 Celsius sama dengan 303.15 Kelvin
 30.00 Celsius sama dengan 86.00 Fahrenheit
 
-shell
-Copy code
 
 #### Konversi dari Fahrenheit ke Celsius dan Kelvin:
 
@@ -41,8 +39,6 @@ Masukkan temperatur (Fahrenheit):
 100.00 Fahrenheit sama dengan 37.78 Celsius
 100.00 Fahrenheit sama dengan 310.93 Kelvin
 
-yaml
-Copy code
 
 ## Keluar dari Program
 
