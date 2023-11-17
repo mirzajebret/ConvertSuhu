@@ -4,7 +4,7 @@ Program ini adalah konverter suhu sederhana yang dapat mengonversi suhu antara K
 
 ## Cara Menggunakan
 
-1. Jalankan program dengan menjalankan file `konverter_suhu.py`.
+1. Jalankan program dengan menjalankan file `main.py`.
 2. Pilih satuan suhu yang ingin Anda konversi (K/Kelvin, C/Celsius, F/Fahrenheit).
 3. Masukkan suhu yang akan dikonversi sesuai dengan satuan yang dipilih.
 4. Program akan menampilkan hasil konversi.
